@@ -3,10 +3,10 @@ import "./globals.css";
 
 const quicksand = Quicksand({ subsets: ["latin"], variable: "--font-quicksand", weight: ["500", "600", "700"] });
 
-const __jsonld = {"@context":"https://schema.org","@type":"ProfilePage","mainEntity":{"@type":"Person","name":"Mella","jobTitle":"Ilustrator & Sticker Artist","url":"https://linkinbio-mellow.vercel.app","inLanguage":"id"}};
+const __jsonld = {"@context":"https://schema.org","@type":"ProfilePage","mainEntity":{"@type":"Person","name":"Mella","jobTitle":"Ilustrator & Sticker Artist","url":"https://mellow.pintuweb.com","inLanguage":"id"}};
 
 export const metadata = {
-  metadataBase: new URL("https://linkinbio-mellow.vercel.app"),
+  metadataBase: new URL("https://mellow.pintuweb.com"),
   title: "Mella — Ilustrator & Sticker Artist",
   description: "Link in bio ilustrator & sticker artist Mella: semua karya lucu dan menggemaskan dalam satu tempat.",
   applicationName: "Mella",
@@ -14,11 +14,11 @@ export const metadata = {
   authors: [{ name: "Mella" }],
   creator: "Mella",
   publisher: "Mella",
-  alternates: { canonical: "https://linkinbio-mellow.vercel.app" },
+  alternates: { canonical: "https://mellow.pintuweb.com" },
   openGraph: {
     type: "website",
     locale: "id_ID",
-    url: "https://linkinbio-mellow.vercel.app",
+    url: "https://mellow.pintuweb.com",
     siteName: "Mella",
     title: "Mella — Ilustrator & Sticker Artist",
     description: "Link in bio ilustrator & sticker artist Mella: semua karya lucu dan menggemaskan dalam satu tempat.",
