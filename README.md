@@ -1,12 +1,12 @@
 # Mella — Ilustrator & Sticker Artist
 
-Link in bio ilustrator & sticker artist Mella: semua karya lucu dan menggemaskan dalam satu tempat.
+Tautan Mella, ilustrator dan sticker artist di Malang: toko lima pack sticker vinyl, jadwal bazar, komisi ilustrasi dengan estimasi harga, dan kerja sama brand.
 
 **Demo live:** https://linkinbio-mellow.vercel.app
 
 ![Tangkapan layar Mella](public/og.jpg)
 
-> Template link-in-bio dengan persona fiktif.
+> Template link-in-bio dengan persona fiktif. Akun, klien, harga, dan jadwal hanya contoh; tautan utama menuju halaman dalam yang benar-benar ada, dan formulir tidak mengirim data.
 
 ## Konsep
 
@@ -14,7 +14,9 @@ Persona Mella, ilustrator dan pembuat stiker. Papan stiker pastel: tautan berben
 
 ## Halaman
 
-`/`
+- `/` — stiker-stiker tautan miring berbingkai putih, avatar kelinci yang mengambang, awan pastel
+- `/toko` — lima pack sticker dengan keranjang (ongkir & gratis ongkir dihitung) dan jadwal bazar
+- `/komisi` — slot per bulan, formulir komisi dengan estimasi harga langsung, kerja sama brand
 
 ## Teknologi
 
